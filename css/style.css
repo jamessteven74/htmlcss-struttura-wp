@@ -17,6 +17,7 @@ header{
     background-color: coral;
     
 }
+
 main{
     width: 100%;
     height: 300px;
@@ -32,6 +33,8 @@ main{
     height: 300px;
     background-color: red;
     float: left;
+    margin-right: 15px;
+    
 }
 
 .central{
@@ -47,3 +50,12 @@ main{
     background-color: red;
     float: left;
 }
+   
+
+
+aside{
+    margin-top: 10px;
+}
+
+    
+
